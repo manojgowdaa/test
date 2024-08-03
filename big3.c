@@ -4,7 +4,7 @@ biggest3() {
     int num1, num2, num3;
     int max;
 
-    // Input three number from user
+    // Input three numbers from user
     printf("Enter first number: ");
     scanf("%d", &num1);
     printf("Enter second number: ");
@@ -27,7 +27,7 @@ biggest3() {
 
     // Print the largest number
     printf("The largest number is: %d\n", max);
-
+            
     return 0;
 }
 
